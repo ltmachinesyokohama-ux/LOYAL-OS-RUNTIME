@@ -1,0 +1,13 @@
+
+{
+  "version": 1,
+  "modules": [
+    {
+      "name": "LOYAL-QUERY-DOMINANCE-ENGINE",
+      "paths": [
+        "/blog/*"
+      ],
+      "src": "https://cdn.jsdelivr.net/gh/ltmachinesyokohama-ux/LOYAL-QUERY-DOMINANCE-ENGINE@30dd11effc44344b9f835b71b012c837d4353710/loyal-auto.js"
+    }
+  ]
+}
